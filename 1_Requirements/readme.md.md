@@ -1,9 +1,9 @@
 
 # SCIENCE QUIZ GAME
 
-This is a simple science quiz game based on basic science and objective of Quiz Contest is to facilitate a user friendly environment for all users questions are chosen in such a a way that they cover all fields of a SCIENCE and technology. The user’s basic science and technology knowledge is tested with quiz questions regarding science and technology.the level of questions will be increasing step by step.
+This is a simple science quiz game based on basic science. Objective of Quiz Contest is to facilitate a user friendly environment for all users. questions are chosen in such a a way that they cover all fields of  SCIENCE and technology. The user’s knowledge is tested with quiz questions regarding science and technology.the level of questions will be increasing step by step.
 
-RESEARCH:I searched on internet there are many quiz games based on General Knowledge quantitative aptitude etc but i want to create a quiz game based on the knowledge of science and technology.A quiz game is a  mind sport in which players attempt to answer questions correctly about Science and technology. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.
+RESEARCH:I searched on internet there are many quiz games based on General Knowledge quantitative aptitude etc but i want to create a quiz game based on the knowledge of science and technology.A quiz game is a  mind sport in which players attempt to answer questions correctly . Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.
 
 FEATURES:
 1:Score Board
