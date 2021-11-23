@@ -13,7 +13,7 @@ RESEARCH:I searched on internet there are many quiz games based on General Knowl
 3:Score
 
 4:help
-###  Requirements:
+###  REQUIREMENTS:
 
 High Level Requirements:-
 
@@ -33,7 +33,7 @@ Low Level Requirements:
 
 ID: LR01
 
-Description: Main menu should consist 4 options asking for
+DESCRIPTION: Main menu should consist 4 options asking for
 
 
 1: New game
