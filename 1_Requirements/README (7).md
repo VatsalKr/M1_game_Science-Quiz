@@ -5,7 +5,7 @@ This is a simple science quiz game based on basic science. Objective of Quiz Con
 
 RESEARCH:I searched on internet there are many quiz games based on General Knowledge quantitative aptitude etc but i want to create a quiz game based on the knowledge of science and technology.A quiz game is a  mind sport in which players attempt to answer questions correctly . Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.
 
-FEATURES:
+## FEATURES:
 1:Score Board
 
 2:Reset Score
@@ -13,7 +13,7 @@ FEATURES:
 3:Score
 
 4:help
-##  Requirements:
+###  Requirements:
 
 High Level Requirements:-
 
